@@ -1,0 +1,19 @@
+Randomizenator
+Jussi Jokio & Niko Kupari 15.12.16
+
+Randomizenator on Jussi Jokion ja Niko Kuparin yhteistyössä
+toteutettu ohjelma Oulun yliopiston kurssilla "Käyttöliittymäohjelmointi"
+(811375A). Kurssilla toteutetun harjoitustyön kriteerinä oli toteuttaa 
+käyttöliittymä, johon ei käytetty valmiita GUI-generoivia editoreita.
+Harjoitustyöhön kuului myös käyttöliittymän suunnnittelu, toteutus,
+arviointi ja testaus. Randomizenator on toteutettu käyttäen Java
+ja Java Swing kirjastoja. Ohjelmoitiympäristönä käytettiin Eclipse Neon
+ympäristöä.
+
+
+Randomizenator is a collaboration between Jussi Jokio and Niko Kupari.
+It was done for Oulu university course "Käyttöliittymäohjelmointi"
+("GUIprogramming")(811375A). Course work must not be done with 
+automated GUIeditors. The work was designed, implemented, evaluated
+and tested by us. Randomizenator was built using Java and Java Swing 
+libraries and Eclipse Neon as developement platform.
