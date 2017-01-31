@@ -8,7 +8,8 @@ käyttöliittymä, johon ei käytetty valmiita GUI-generoivia editoreita.
 Harjoitustyöhön kuului myös käyttöliittymän suunnnittelu, toteutus,
 arviointi ja testaus. Randomizenator on toteutettu käyttäen Java
 ja Java Swing kirjastoja. Ohjelmoitiympäristönä käytettiin Eclipse Neon
-ympäristöä.
+ympäristöä.Ohjelman main tiedosto on nimella "Tehtava" ja siinä on 
+käytetty luokkia "Ikkuna" ja "Generator".
 
 
 Randomizenator is a collaboration between Jussi Jokio and Niko Kupari.
@@ -16,4 +17,5 @@ It was done for Oulu university course "Käyttöliittymäohjelmointi"
 ("GUIprogramming")(811375A). Course work must not be done with 
 automated GUIeditors. The work was designed, implemented, evaluated
 and tested by us. Randomizenator was built using Java and Java Swing 
-libraries and Eclipse Neon as developement platform.
+libraries and Eclipse Neon as developement platform. The main starts in
+"Tehtava" and it needs two classes "Ikkuna" and "Generate".
